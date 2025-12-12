@@ -57,7 +57,7 @@ export default function BillInput({ value, error, onChange, onBlur }: BillInputP
       <div className={`input-wrapper ${hasError ? "input-wrapper--error" : ""}`}>
         {/* Dollar Sign Icon */}
         <img
-          src="/images/icon-dollar.svg"
+          src={`${import.meta.env.BASE_URL}images/icon-dollar.svg`}
           alt=""
           className="input-icon"
           aria-hidden="true"

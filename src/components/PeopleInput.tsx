@@ -73,7 +73,7 @@ export default function PeopleInput({ value, error, onChange, onBlur }: PeopleIn
       <div className={`input-wrapper ${hasError ? "input-wrapper--error" : ""}`}>
         {/* Person Icon */}
         <img
-          src="/images/icon-person.svg"
+          src={`${import.meta.env.BASE_URL}images/icon-person.svg`}
           alt=""
           className="input-icon"
           aria-hidden="true"

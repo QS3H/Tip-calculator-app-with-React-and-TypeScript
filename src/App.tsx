@@ -83,7 +83,7 @@ function App() {
       <div className="app">
         <div className="app-header">
           <img
-            src="/images/logo.svg"
+            src={`${import.meta.env.BASE_URL}images/logo.svg`}
             alt="SPLITTER"
             className="app-logo"
           />
