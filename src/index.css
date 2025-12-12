@@ -1,0 +1,9 @@
+/* Basic reset - all styles are now in App.css */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
