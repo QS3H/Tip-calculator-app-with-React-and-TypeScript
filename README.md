@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/tip-calculator-app-react-typescript-vite)
-- Live Site URL: [Live Demo](https://tip-calculator-app-demo.netlify.app)
+- Solution URL: [My Frontend Mentor Solution](https://www.frontendmentor.io/solutions/tip-calculator-with-react-and-typescript-VDUSBRu78w)
+- Live Site URL: [Live Demo](https://qs3h.github.io/Tip-calculator-app-with-React-and-TypeScript/)
 
 ## My process
 
